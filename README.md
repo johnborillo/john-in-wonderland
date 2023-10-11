@@ -70,8 +70,6 @@ All commands are run from the root of the project, from a terminal:
 | `bunx --bun astro dev`     | Starts local dev server at `localhost:4321` |
 | `bunx --bun astro build`   | Build your production site to `./dist/`     |
 | `bunx --bun astro preview` | Preview your build locally, before deploying  |
-|                              |                                               |
-|                              |                                               |
 
 ## 👀 Want to learn more?
 
