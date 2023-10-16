@@ -5,11 +5,11 @@ import { SITE_TITLE } from '../consts';
 
 <header>
 	<nav>
-		<h2><a href="/">{SITE_TITLE}</a></h2>
+		<h2><HeaderLink href="/">{SITE_TITLE}</HeaderLink></h2>
 		<div class="internal-links">
-			<HeaderLink href="/john-in-wonderland/">Home</HeaderLink>
-			<HeaderLink href="/john-in-wonderland/blog">Blog</HeaderLink>
-			<HeaderLink href="/john-in-wonderland/about">About</HeaderLink>
+			<HeaderLink href="/">Home</HeaderLink>
+			<HeaderLink href="/blog">Blog</HeaderLink>
+			<HeaderLink href="/about">About</HeaderLink>
 		</div>
 			<a href="https://github.com/johnborillo/john-in-wonderland" target="_blank">
 				<span class="sr-only">Go to Astro's GitHub repo</span>
@@ -23,6 +23,7 @@ import { SITE_TITLE } from '../consts';
 		</div>
 	</nav>
 </header>
+
 <style>
 	header {
 		margin: 0;
