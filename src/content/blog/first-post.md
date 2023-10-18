@@ -2,7 +2,7 @@
 title: 'Down the rabbit hole'
 description: 'How I got stuck in this tech-world'
 pubDate: 'Oct 17 2023'
-heroImage: '/john-in-wonderland/1st-post.jpg'
+heroImage: '/john-in-wonderland/post1.jpg'
 ---
 To begin, I'll be the first to admit that I'm not the greatest writer. English class was never my strong suit. However, I've always seen the value in documenting and journaling experiences, regardless of one's writing abilities. So with that, let's get to today's blog, my first-ever blog post detailing my initial foray into the rapidly changing world of tech.
 
